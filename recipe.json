@@ -1,0 +1,156 @@
+[
+  {
+    "id": "0001",
+    "type": "Rice",
+    "name": "Chicken Rice",
+    "cost": 2.5,
+    "preparationsTime": "30 minutes",
+    "macros": {
+      "protein": "60g",
+      "calories": "900kcal"
+    },
+    "ingredients": {
+      "protein": {
+        "name": "Chicken",
+        "preparations": "Boiled"
+      },
+      "sauce": {
+        "name": "garlic paste"
+      },
+      "toppings": [
+        {
+          "name": "Boneless Chicken Thighs",
+          "quantity": "250g"
+        },
+        {
+          "name": "Rice",
+          "quantity": "300g"
+        },
+        {
+          "name": "Scallion",
+          "quantity": "100g"
+        },
+        {
+          "name": "Garlic",
+          "quantity": "2 bulbs"
+        },
+        {
+          "name":"Ginger",
+          "quantity":"135g"
+        }
+      ]
+    },
+    "preparations": [
+      "1. Lightly salt 200ml water, bring to a boil",
+      "2. Slice up 30g of Ginger, chop up 30g of scallion together with roots into 3 parts, peel half of a garlic with skin on", 
+      "3. Dump into boiling water", 
+      "4. 5 minutes later, dump in chicken thigh to boil for 15 minutes",
+      "5. Minced 3/4 of a garlic, slice up 37.5g of ginger, stir fry until golden",
+      "6. Add in 100ml of washed rice into the same pan and lightly stir fry in medium heat for a minute",
+      "7. Transfer white rice into a rice cooker, and add in 100ml of broth from the chicken, start rice cooker",
+      "8. Minced the remaining garlic, ginger, chop up scallion into tiny bits, add in a pinch of salt and a splash of soy sauce and mix together",
+      "9. On a pan, heat up oil till smoking, and drizzle oil over the mixture of ginger, garlic scallion",
+      "10. Serve chicken, rice and broth"
+    ] 
+  },
+
+  {
+    "id": "0002",
+    "type": "Meat",
+    "name": "Steak and Mash",
+    "cost": 8,
+    "preparationsTime": "20 minutes",
+    "macros": {
+      "protein": "64g",
+      "calories": "1000kcal"
+    },
+    "ingredients": {
+      "protein": {
+        "name": "Steak",
+        "preparations": "Seared"
+      },
+      "sauce": {
+        "name": "butter sauce"
+      },
+      "toppings": [
+        {
+          "name": "Steak",
+          "quantity": "250g"
+        },
+        {
+          "name": "Butter",
+          "quantity": "30g"
+        },
+        {
+          "name": "Potatoes",
+          "quantity": "200g"
+        },
+        {
+          "name": "Milk",
+          "quantity": "100ml"
+        },
+        {
+          "name": "Rapeseed oil",
+          "quantity": "15ml"
+        },
+        {
+          "name": "Milk",
+          "quantity": "100ml"
+        },
+        {
+          "name": "Thyme",
+          "quantity": "2 stalks"
+        }
+      ]
+    },
+    "preparations": [
+      "1. Deskin potatoes and boil in high heat.", 
+      "2. Season steak in coarse salt and pepper for 20 minutes at room temperature.", 
+      "3. 20 minutes later, pour in all the rapeseed oil into a pan and heat it until smoking.",
+      "4. Slowly place steak into hot pan, searing each side for a minute and 20 seconds",
+      "In the last 30 seconds, add in 10g butter and thyme and baste steak",
+      "5. Let steak cool on a cooling rack, heat off, leaving the oil in pan",
+      "6. Mash potatoes, adding in milk, salt and pepper from time to time, as well as 3/4 of the steak oil",
+      "7. Slice steak when cooled, drizzling some oil on top",
+      "8. Serve"
+    ] 
+  },
+  {
+    "id": "0003",
+    "type": "Rice",
+    "name": "Salmon bowl",
+    "cost": 5,
+    "preparationsTime": "10 minutes",
+    "macros": {
+      "protein": "63g",
+      "calories": "900"
+    },
+    "ingredients": {
+      "protein": {
+        "name": "Salmon",
+        "preparations": "Fried"
+      },
+      "sauce": {
+        "name": "Salt and pepper"
+      },
+      "toppings": [
+        {
+          "name": "Salmon",
+          "quantity": "250g"
+        },
+        {
+          "name": "Rice",
+          "quantity": "300g"
+        }
+      ]
+    },
+    "preparations": [
+      "1. Salt salmon skin, let it rest for 10 minutes.", 
+      "2. Cook rice in a rice cooker", 
+      "3. Wipe water and salt off the surface of salmon skin.",
+      "4. Heat up oil in pan until smoking, put in salmon skin down",
+      "5. Flip salmon once skin crisps, and fry for another minute",
+      "6. Salmon off pan, serve with rice"
+    ] 
+  }
+]
