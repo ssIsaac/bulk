@@ -2,7 +2,7 @@ html {
   height: 100%;
 }
 body {
-  font-family: Arial, sans-serif;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
   margin: 20px;
   padding: 0;
   background-color: #e26e5c;
@@ -84,3 +84,5 @@ button {
   margin-bottom: 10px;
   color: #555;
 }
+
+
